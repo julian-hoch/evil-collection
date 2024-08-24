@@ -331,6 +331,7 @@ See `evil-collection-init' and `evil-collection--modes-with-delayed-setup'."
     vertico
     view
     vlf
+    vtable
     vterm
     vundo
     w3m
